@@ -3,7 +3,7 @@
 ## Description
  Final project for CS512 Machine Learning in Medicine and Health. Consists of one r file split into five differnet sections.
 
-##Tests for stationarity
+## Tests for stationarity
   - Augmented Dickey-Fuller(ADF)
   
 ## Models Implemented
