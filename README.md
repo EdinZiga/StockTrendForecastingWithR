@@ -1,9 +1,12 @@
 # Stock Trend Forecasting with R
 
 ## Description
- Final project for CS512 Machine Learning in Medicine and Health. Consists of one r file split into four differnet sections.
- 
- ## Models Implemented
+ Final project for CS512 Machine Learning in Medicine and Health. Consists of one r file split into five differnet sections.
+
+##Tests for stationarity
+  - Augmented Dickey-Fuller(ADF)
+  
+## Models Implemented
   - Autoregressive Integrated Moving Average Model (auto.arima was used, so no custom oreders)
   - Regressive K-Nearest Neighbor with custom scalalbe lag periods and k values based on forecast length
   - Feed Forward Neural Network
